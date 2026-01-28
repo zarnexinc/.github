@@ -1,4 +1,4 @@
-# Zarnex.ai
+# Zarnex.ai - Your service agents and web solutions provider
 
 Zarnex.ai is a technology service provider delivering **AI solutions, web applications, and scalable digital systems** for startups and enterprises.
 
