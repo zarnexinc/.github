@@ -70,9 +70,7 @@ Zarnex.ai helps businesses design, build, and deploy production-ready software u
 
 ---
 
-## Contact
-
-Website: https://zarnex.ai  
+## Contact 
 Email: zarnexsolutions@gmail.com  
 
 ---
