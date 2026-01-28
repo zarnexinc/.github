@@ -1,101 +1,76 @@
-# Zarnex.ai — AI & Web Solutions Partner
+# Zarnex.ai
 
-Zarnex.ai is a technology services provider specializing in **AI solutions, web development, and scalable digital systems**.  
-We help startups and enterprises design, build, and deploy intelligent, production-ready software.
-
----
-
-## 🚀 What We Do
-
-We deliver end-to-end technology solutions with a strong focus on reliability, scalability, and real-world usability.
-
-Our expertise spans:
-- Artificial Intelligence
-- Full-stack Web Development
-- App Development
-- Automation & Integrations
+Zarnex.ai is a technology service provider delivering **AI solutions, web applications, and scalable digital systems** for startups and enterprises.
 
 ---
 
-## 🤖 AI Solutions
+## Table of Contents
 
-- Conversational AI (chatbots & voice assistants)
-- NLP-based systems
-- AI automation & workflow optimization
-- Computer vision solutions
+- [Overview](#overview)
+- [Services](#services)
+- [Industries](#industries)
+- [Why Zarnex.ai](#why-zarnexai)
+- [Security](#security)
+- [Contact](#contact)
+
+---
+
+## Overview
+
+Zarnex.ai helps businesses design, build, and deploy production-ready software using modern AI, web, and cloud technologies.
+
+---
+
+## Services
+
+### AI Solutions
+- Conversational AI and voice agents
+- NLP and automation systems
 - Custom AI model integration
-- AI architecture & consulting
+
+### Web Solutions
+- Full-stack web development
+- SaaS platforms and APIs
+- Dashboards and analytics tools
+
+### Cloud & Automation
+- Cloud-native architecture
+- CI/CD and DevOps
+- Third-party integrations
 
 ---
 
-## 🌐 Web Solutions
+## Industries
 
-- Full-stack web application development
-- SaaS platform development
-- REST & GraphQL APIs
-- Progressive Web Apps (PWA)
-- Admin dashboards & analytics systems
-
----
-
-## ☁️ Cloud & DevOps
-
-- Cloud-native architectures (AWS / Azure / GCP)
-- CI/CD pipelines
-- Secure deployments
-- Performance monitoring & scaling
-- Infrastructure automation
+- Startups and SaaS
+- FinTech and InsurTech
+- Healthcare and EdTech
+- E-commerce and Enterprises
 
 ---
 
-## ⚙️ Automation & Integrations
+## Why Zarnex.ai
 
-- Business process automation
-- Third-party API integrations
-- CRM & internal tool integrations
-- Workflow orchestration
-
----
-
-## 🏗 Industries We Serve
-
-- Startups & SaaS
-- FinTech & InsurTech
-- Healthcare & HealthTech
-- EdTech
-- E-commerce
-- Enterprise platforms
+- AI-first approach
+- Production-ready systems
+- Scalable architecture
+- Clean and maintainable code
 
 ---
 
-## 🧠 Why Zarnex.ai?
+## Security
 
-- AI-first engineering approach
-- Production-ready solutions
-- Full-stack expertise under one roof
-- Clean, maintainable codebases
-- Scalable system design
-- Transparent development process
+- Secure-by-design systems
+- Data protection best practices
+- Access control and monitoring
 
 ---
 
-## 🔐 Security & Reliability
+## Contact
 
-- Secure-by-design architecture
-- Best practices for data protection
-- Role-based access control
-- Logging, monitoring, and observability
-- Compliance-ready workflows
+Website: https://zarnex.ai  
+Email: zarnexsolutions@gmail.com  
 
 ---
 
-## 📬 Contact
-
-For partnerships, projects, or consultations:
-
-- **Website:** https://zarnex.ai  
-- **Email:** zarnexsolutions@gmail.com
-
----
-
-© Zarnex.ai — Building intelligent solutions for the real world.
+© Zarnex.ai
