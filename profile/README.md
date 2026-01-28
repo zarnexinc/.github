@@ -23,13 +23,17 @@ Zarnex.ai helps businesses design, build, and deploy production-ready software u
 
 ## Services
 
-### AI Solutions
+### AI Solutions and Agent Orchestrations
 - Conversational AI and voice agents
 - NLP and automation systems
 - Custom AI model integration
+- Machine Learning models
+
+### Automations
+- Agentic automations
 
 ### Web Solutions
-- Full-stack web development
+- Full-stack web and app development
 - SaaS platforms and APIs
 - Dashboards and analytics tools
 
